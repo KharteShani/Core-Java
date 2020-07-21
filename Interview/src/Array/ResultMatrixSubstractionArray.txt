@@ -1,0 +1,30 @@
+Enter First Number of rows::
+2
+Enter Second Number of columns::
+2
+Enter Number for First Matrix:: 
+16
+16
+14
+13
+Entered Numbers are::
+ 16	
+ 16	
+ 14	
+ 13	
+Enter Number for Second Matrix
+12
+12
+12
+12
+Entered Numbers of Matrix are::
+ 12	
+ 12	
+ 12	
+ 12	
+Substraction logic:: 
+Result is as::
+ 4	
+ 4	
+ 2	
+ 1	
